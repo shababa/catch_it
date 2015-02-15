@@ -18,9 +18,9 @@
             android:gravity="center|bottom">
 
             <ImageView
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:src="@drawable/logo_placeholder" />
+                android:layout_height="342dp"
+                android:layout_width="271dp"
+                android:src="@drawable/logo" />
 
             <Button android:id="@+id/login_button" style="@style/CodeFont"
                 android:layout_width="150dp" android:layout_height="40dp"
